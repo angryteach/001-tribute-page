@@ -1,0 +1,38 @@
+/*
+ * DEFAULT EVERYTHING
+ */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ * BODY STYLES
+ */
+
+body {
+	background: #bebefe;
+	display: flex;
+	justify-content: center;
+}
+
+
+
+#main {
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+#tribute-info {
+	text-align: left;
+}
+
+/*
+ * END OF BODY STYLES
+ */
+
+
+
+
