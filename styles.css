@@ -41,7 +41,8 @@ body {
 }
 
 #image {
-	width: 50%;
+	display: block; /* I passed 8 out of 10 tests and the last two were to do with display and MAX-width to control no more than 100% of image width and for resizing  */
+	max-width: 100%; /* had only width:100%; */
 }
 
 /*
